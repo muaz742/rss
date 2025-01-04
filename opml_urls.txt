@@ -1,0 +1,8 @@
+https://muaz742.github.io/rss/bilim_feeds.opml
+https://muaz742.github.io/rss/eğlence_feeds.opml
+https://muaz742.github.io/rss/felsefe_feeds.opml
+https://muaz742.github.io/rss/grouped_feeds.opml
+https://muaz742.github.io/rss/gündem_feeds.opml
+https://muaz742.github.io/rss/rss_bağlantıları_feeds.opml
+https://muaz742.github.io/rss/spor_feeds.opml
+https://muaz742.github.io/rss/teknoloji_feeds.opml
