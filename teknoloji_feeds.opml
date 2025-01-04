@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Teknoloji RSS Feeds</title>
+  </head>
+  <body>
+    <outline type="rss" xmlUrl="https://www.chip.com.tr/rss" />
+    <outline type="rss" xmlUrl="https://www.donanimhaber.com/rss/tum/" />
+    <outline type="rss" xmlUrl="https://www.indir.com/haber/feed/" />
+    <outline type="rss" xmlUrl="https://www.log.com.tr/feed/" />
+    <outline type="rss" xmlUrl="https://www.megabayt.com/rss" />
+    <outline type="rss" xmlUrl="https://shiftdelete.net/feed" />
+    <outline type="rss" xmlUrl="https://techolay.net/feed/" />
+    <outline type="rss" xmlUrl="https://www.technopat.net/feed/" />
+    <outline type="rss" xmlUrl="http://www.teknoblog.com/feed/" />
+    <outline type="rss" xmlUrl="https://www.teknolojioku.com/export/rss" />
+    <outline type="rss" xmlUrl="https://www.teknoburada.net/feed/" />
+    <outline type="rss" xmlUrl="http://feeds.feedburner.com/tamindir/stream" />
+    <outline type="rss" xmlUrl="https://webrazzi.com/feed" />
+  </body>
+</opml>

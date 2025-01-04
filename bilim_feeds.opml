@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Bilim RSS Feeds</title>
+  </head>
+  <body>
+    <outline type="rss" xmlUrl="https://arkeofili.com/feed/" />
+    <outline type="rss" xmlUrl="https://beyinsizler.net/feed/" />
+    <outline type="rss" xmlUrl="https://www.bilimgunlugu.com/feed/" />
+    <outline type="rss" xmlUrl="https://bilimvegelecek.com.tr/index.php/feed/" />
+    <outline type="rss" xmlUrl="https://www.bilimoloji.com/feed/" />
+    <outline type="rss" xmlUrl="https://www.bilimma.com/feed/" />
+    <outline type="rss" xmlUrl="https://www.bilimup.com/rss.xml" />
+    <outline type="rss" xmlUrl="https://cilginfizikcilervbi.com/feed/" />
+    <outline type="rss" xmlUrl="https://www.dijitalx.com/feed/" />
+    <outline type="rss" xmlUrl="https://evrimagaci.org/rss.xml" />
+    <outline type="rss" xmlUrl="https://www.tarihlibilim.com/feed/" />
+    <outline type="rss" xmlUrl="https://www.fizikist.com/feed" />
+    <outline type="rss" xmlUrl="https://www.gercekbilim.com/feed/" />
+    <outline type="rss" xmlUrl="https://gelecekbilimde.net/feed/" />
+    <outline type="rss" xmlUrl="https://www.herkesebilimteknoloji.com/feed" />
+    <outline type="rss" xmlUrl="https://www.kozmikanafor.com/feed/" />
+    <outline type="rss" xmlUrl="https://www.matematiksel.org/feed" />
+    <outline type="rss" xmlUrl="https://moletik.com/feed/" />
+    <outline type="rss" xmlUrl="https://www.molekulce.com/feed/" />
+    <outline type="rss" xmlUrl="https://popsci.com.tr/feed/" />
+    <outline type="rss" xmlUrl="https://sarkac.org/feed/" />
+    <outline type="rss" xmlUrl="https://sinirbilim.org/feed/" />
+    <outline type="rss" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-saglik" />
+  </body>
+</opml>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>RSS Feeds</title>
+  </head>
+  <body>
+    <outline title="RSS Bağlantıları" text="RSS Bağlantıları">
+    </outline>
+    <outline title="Bilim" text="Bilim">
+      <outline type="rss" xmlUrl="https://arkeofili.com/feed/" />
+      <outline type="rss" xmlUrl="https://beyinsizler.net/feed/" />
+      <outline type="rss" xmlUrl="https://www.bilimgunlugu.com/feed/" />
+      <outline type="rss" xmlUrl="https://bilimvegelecek.com.tr/index.php/feed/" />
+      <outline type="rss" xmlUrl="https://www.bilimoloji.com/feed/" />
+      <outline type="rss" xmlUrl="https://www.bilimma.com/feed/" />
+      <outline type="rss" xmlUrl="https://www.bilimup.com/rss.xml" />
+      <outline type="rss" xmlUrl="https://cilginfizikcilervbi.com/feed/" />
+      <outline type="rss" xmlUrl="https://www.dijitalx.com/feed/" />
+      <outline type="rss" xmlUrl="https://evrimagaci.org/rss.xml" />
+      <outline type="rss" xmlUrl="https://www.tarihlibilim.com/feed/" />
+      <outline type="rss" xmlUrl="https://www.fizikist.com/feed" />
+      <outline type="rss" xmlUrl="https://www.gercekbilim.com/feed/" />
+      <outline type="rss" xmlUrl="https://gelecekbilimde.net/feed/" />
+      <outline type="rss" xmlUrl="https://www.herkesebilimteknoloji.com/feed" />
+      <outline type="rss" xmlUrl="https://www.kozmikanafor.com/feed/" />
+      <outline type="rss" xmlUrl="https://www.matematiksel.org/feed" />
+      <outline type="rss" xmlUrl="https://moletik.com/feed/" />
+      <outline type="rss" xmlUrl="https://www.molekulce.com/feed/" />
+      <outline type="rss" xmlUrl="https://popsci.com.tr/feed/" />
+      <outline type="rss" xmlUrl="https://sarkac.org/feed/" />
+      <outline type="rss" xmlUrl="https://sinirbilim.org/feed/" />
+      <outline type="rss" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-saglik" />
+    </outline>
+    <outline title="Teknoloji" text="Teknoloji">
+      <outline type="rss" xmlUrl="https://www.chip.com.tr/rss" />
+      <outline type="rss" xmlUrl="https://www.donanimhaber.com/rss/tum/" />
+      <outline type="rss" xmlUrl="https://www.indir.com/haber/feed/" />
+      <outline type="rss" xmlUrl="https://www.log.com.tr/feed/" />
+      <outline type="rss" xmlUrl="https://www.megabayt.com/rss" />
+      <outline type="rss" xmlUrl="https://shiftdelete.net/feed" />
+      <outline type="rss" xmlUrl="https://techolay.net/feed/" />
+      <outline type="rss" xmlUrl="https://www.technopat.net/feed/" />
+      <outline type="rss" xmlUrl="http://www.teknoblog.com/feed/" />
+      <outline type="rss" xmlUrl="https://www.teknolojioku.com/export/rss" />
+      <outline type="rss" xmlUrl="https://www.teknoburada.net/feed/" />
+      <outline type="rss" xmlUrl="http://feeds.feedburner.com/tamindir/stream" />
+      <outline type="rss" xmlUrl="https://webrazzi.com/feed" />
+    </outline>
+    <outline title="Eğlence" text="Eğlence">
+      <outline type="rss" xmlUrl="https://www.atarita.com/feed/" />
+      <outline type="rss" xmlUrl="https://bigumigu.com/feed/" />
+      <outline type="rss" xmlUrl="https://www.bilimkurgukulubu.com/feed/" />
+      <outline type="rss" xmlUrl="https://frpnet.net/feed" />
+      <outline type="rss" xmlUrl="https://geekyapar.com/feed/" />
+      <outline type="rss" xmlUrl="https://kayiprihtim.com/feed/" />
+      <outline type="rss" xmlUrl="https://leadergamer.com.tr/feed" />
+      <outline type="rss" xmlUrl="https://listelist.com/feed/" />
+      <outline type="rss" xmlUrl="https://onedio.com/Publisher/publisher-daily.rss" />
+      <outline type="rss" xmlUrl="http://www.thegeyik.com/feed/" />
+      <outline type="rss" xmlUrl="https://www.turkmmo.com/feed" />
+      <outline type="rss" xmlUrl="https://www.turunculevye.com/feed/" />
+      <outline type="rss" xmlUrl="https://www.webtekno.com/rss.xml" />
+    </outline>
+    <outline title="Felsefe" text="Felsefe">
+      <outline type="rss" xmlUrl="https://www.cafrande.org/feed/" />
+      <outline type="rss" xmlUrl="https://cekiclefelsefe.com/feed/" />
+      <outline type="rss" xmlUrl="https://kualiafelsefedergisi.com/feed/" />
+      <outline type="rss" xmlUrl="https://manifold.press/rss" />
+      <outline type="rss" xmlUrl="https://www.mesail.org/feed/" />
+      <outline type="rss" xmlUrl="https://onculanalitikfelsefe.com/feed/" />
+      <outline type="rss" xmlUrl="https://www.sosyalbilimler.org/feed/" />
+      <outline type="rss" xmlUrl="https://www.tarihlisanat.com/feed/" />
+      <outline type="rss" xmlUrl="https://terrabayt.com/feed" />
+      <outline type="rss" xmlUrl="https://vesaire.org/feed" />
+      <outline type="rss" xmlUrl="https://10layn.com/feed/" />
+    </outline>
+    <outline title="Spor" text="Spor">
+      <outline type="rss" xmlUrl="https://www.aspor.com.tr/rss/anasayfa.xml" />
+      <outline type="rss" xmlUrl="https://ajansspor.com/rss" />
+      <outline type="rss" xmlUrl="https://www.fotomac.com.tr/rss/anasayfa.xml" />
+      <outline type="rss" xmlUrl="https://www.ntvspor.net/rss" />
+    </outline>
+    <outline title="Gündem" text="Gündem">
+      <outline type="rss" xmlUrl="https://www.ahaber.com.tr/rss/gundem.xml" />
+      <outline type="rss" xmlUrl="http://www.acikgazete.com/feed/" />
+      <outline type="rss" xmlUrl="https://www.aksam.com.tr/rss/rss.asp" />
+      <outline type="rss" xmlUrl="https://www.voaturkce.com/api/" />
+      <outline type="rss" xmlUrl="https://www.aa.com.tr/tr/rss/default?cat=guncel" />
+      <outline type="rss" xmlUrl="https://artigercek.com/service/rss.php" />
+      <outline type="rss" xmlUrl="https://feeds.bbci.co.uk/turkce/rss.xml" />
+      <outline type="rss" xmlUrl="https://bianet.org/biamag.rss" />
+      <outline type="rss" xmlUrl="https://www.birgazete.com/feed" />
+      <outline type="rss" xmlUrl="https://www.birgun.net/rss/home" />
+      <outline type="rss" xmlUrl="https://www.cnnturk.com/feed/rss/all/news" />
+      <outline type="rss" xmlUrl="https://www.cumhuriyet.com.tr/rss/son_dakika.xml" />
+      <outline type="rss" xmlUrl="https://www.demokrathaber.org/rss" />
+      <outline type="rss" xmlUrl="https://www.diken.com.tr/feed/" />
+      <outline type="rss" xmlUrl="https://www.dirilispostasi.com/rss" />
+      <outline type="rss" xmlUrl="https://www.diyanethaber.com.tr/rss" />
+      <outline type="rss" xmlUrl="https://dogruhaber.com.tr/rss" />
+      <outline type="rss" xmlUrl="https://www.dokuz8haber.net/rss" />
+      <outline type="rss" xmlUrl="https://www.dunya.com/rss?dunya" />
+      <outline type="rss" xmlUrl="https://rss.dw.com/rdf/rss-tur-all" />
+      <outline type="rss" xmlUrl="https://www.enpolitik.com/rss.xml" />
+      <outline type="rss" xmlUrl="https://www.ensonhaber.com/rss/ensonhaber.xml" />
+      <outline type="rss" xmlUrl="https://www.evrensel.net/rss/haber.xml" />
+      <outline type="rss" xmlUrl="https://www.f5haber.com/export/rss" />
+      <outline type="rss" xmlUrl="https://www.gazeteduvar.com.tr/export/rss" />
+      <outline type="rss" xmlUrl="https://www.gazetevatan.com/rss/anasayfa-manset.xml" />
+      <outline type="rss" xmlUrl="https://www.gercekgundem.com/rss" />
+      <outline type="rss" xmlUrl="https://www.haber3.com/rss" />
+      <outline type="rss" xmlUrl="https://haberglobal.com.tr/rss" />
+      <outline type="rss" xmlUrl="https://www.haberturk.com/rss" />
+      <outline type="rss" xmlUrl="https://halktv.com.tr/service/rss.php" />
+      <outline type="rss" xmlUrl="http://www.hurriyet.com.tr/rss/anasayfa" />
+      <outline type="rss" xmlUrl="https://www.iklimhaber.org/feed/" />
+      <outline type="rss" xmlUrl="https://www.indyturk.com/rss.xml" />
+      <outline type="rss" xmlUrl="https://www.internethaber.com/rss" />
+      <outline type="rss" xmlUrl="https://kisadalga.net/service/rss.php" />
+      <outline type="rss" xmlUrl="https://www.medyagazete.com/rss/genel-0" />
+      <outline type="rss" xmlUrl="https://www.mynet.com/haber/rss/sondakika" />
+      <outline type="rss" xmlUrl="https://www.muhalif.com.tr/rss/genel-0" />
+      <outline type="rss" xmlUrl="https://www.nethaber.com/rss" />
+      <outline type="rss" xmlUrl="https://www.ntv.com.tr/gundem.rss" />
+      <outline type="rss" xmlUrl="https://www.oncevatan.com.tr/rss.php" />
+      <outline type="rss" xmlUrl="https://www.sabah.com.tr/rss/gundem.xml" />
+      <outline type="rss" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-sozcu" />
+      <outline type="rss" xmlUrl="https://haber.sol.org.tr/rss.xml" />
+      <outline type="rss" xmlUrl="https://www.star.com.tr/rss/rss.asp" />
+      <outline type="rss" xmlUrl="https://t24.com.tr/rss" />
+      <outline type="rss" xmlUrl="https://www.trthaber.com/sondakika.rss" />
+      <outline type="rss" xmlUrl="https://www.yeniakit.com.tr/rss/haber/gundem" />
+      <outline type="rss" xmlUrl="https://www.yeniasir.com.tr/rss/anasayfa.xml" />
+      <outline type="rss" xmlUrl="https://www.yenisafak.com/rss?xml=gundem" />
+      <outline type="rss" xmlUrl="https://yesilgazete.org/feed/" />
+      <outline type="rss" xmlUrl="https://www.yurtgazetesi.com.tr/service/rss.php" />
+    </outline>
+  </body>
+</opml>

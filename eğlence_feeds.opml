@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Eğlence RSS Feeds</title>
+  </head>
+  <body>
+    <outline type="rss" xmlUrl="https://www.atarita.com/feed/" />
+    <outline type="rss" xmlUrl="https://bigumigu.com/feed/" />
+    <outline type="rss" xmlUrl="https://www.bilimkurgukulubu.com/feed/" />
+    <outline type="rss" xmlUrl="https://frpnet.net/feed" />
+    <outline type="rss" xmlUrl="https://geekyapar.com/feed/" />
+    <outline type="rss" xmlUrl="https://kayiprihtim.com/feed/" />
+    <outline type="rss" xmlUrl="https://leadergamer.com.tr/feed" />
+    <outline type="rss" xmlUrl="https://listelist.com/feed/" />
+    <outline type="rss" xmlUrl="https://onedio.com/Publisher/publisher-daily.rss" />
+    <outline type="rss" xmlUrl="http://www.thegeyik.com/feed/" />
+    <outline type="rss" xmlUrl="https://www.turkmmo.com/feed" />
+    <outline type="rss" xmlUrl="https://www.turunculevye.com/feed/" />
+    <outline type="rss" xmlUrl="https://www.webtekno.com/rss.xml" />
+  </body>
+</opml>

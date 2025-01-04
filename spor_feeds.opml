@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Spor RSS Feeds</title>
+  </head>
+  <body>
+    <outline type="rss" xmlUrl="https://www.aspor.com.tr/rss/anasayfa.xml" />
+    <outline type="rss" xmlUrl="https://ajansspor.com/rss" />
+    <outline type="rss" xmlUrl="https://www.fotomac.com.tr/rss/anasayfa.xml" />
+    <outline type="rss" xmlUrl="https://www.ntvspor.net/rss" />
+  </body>
+</opml>
