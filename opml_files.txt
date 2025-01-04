@@ -1,8 +1,0 @@
-bilim_feeds.opml
-eğlence_feeds.opml
-felsefe_feeds.opml
-grouped_feeds.opml
-gündem_feeds.opml
-rss_bağlantıları_feeds.opml
-spor_feeds.opml
-teknoloji_feeds.opml
