@@ -15,10 +15,10 @@ jobs:
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
 
     - name: Set up Python
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v4
       with:
         python-version: '3.x'
 
@@ -56,20 +56,20 @@ jobs:
         cat opml_urls.txt
 
     - name: Upload grouped OPML file
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: grouped-feeds
         path: grouped_feeds.opml
 
     - name: Upload individual OPML files
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: individual-feeds
         path: '*.opml'
         if-no-files-found: error
 
     - name: Upload OPML URLs
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: opml-urls
         path: opml_urls.txt
