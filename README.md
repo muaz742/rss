@@ -81,10 +81,8 @@
 | Çekiçle Felsefe | https://cekiclefelsefe.com/feed/ |
 | Kualia | https://kualiafelsefedergisi.com/feed/ |
 | Manifold | https://manifold.press/rss |
-| Mesail | https://www.mesail.org/feed/ |
 | Öncül | https://onculanalitikfelsefe.com/feed/ |
 | Sosyal Bilimler | https://www.sosyalbilimler.org/feed/ |
-| Tarihli Sanat | https://www.tarihlisanat.com/feed/ |
 | Terrabayt | https://terrabayt.com/feed |
 | Vesaire | https://vesaire.org/feed |
 | 10layn | https://10layn.com/feed/ |
